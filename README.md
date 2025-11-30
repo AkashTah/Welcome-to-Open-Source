@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/AkashTah">
+                    <img src="https://avatars.githubusercontent.com/u/133683953?v=4" width="100px;"
+                        alt="Akash Tah" />
+                    <br />
+                    <sub>
+                        <b>Akash Tah</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
